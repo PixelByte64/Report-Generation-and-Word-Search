@@ -1,0 +1,17 @@
+LastName      FirstName     SSN           Test1     Test2     Test3     Test4     FinalLetterGrade
+Alfalfa       Aloysius      123-45-6789   90        100       83        49        B-        
+Alfred        Francis       123-12-1234   97        96        97        48        B         
+Gerty         Gramma        567-89-0123   80        60        40        44        F         
+Android       Alexis        087-65-4321   23        36        45        47        F         
+Bumpkin       Fred          456-78-9012   78        88        77        45        C-        
+Rubble        Betty         234-56-7890   90        80        90        46        C         
+Noshow        Cecil         345-67-8901   81        65        49        43        F         
+Buff          Bif           632-79-9939   20        30        40        50        F         
+Airpump       Andrew        223-45-6789   75        90        100       83        B+        
+Backus        Jim           143-12-1234   85        97        96        97        A         
+Carnivore     Art           565-89-0123   71        80        60        40        D-        
+Dandy         Jim           087-75-4321   92        23        36        45        F         
+Elephant      Ima           456-71-9012   19        78        88        77        D         
+Franklin      Benny         234-56-2890   50        90        80        90        C+        
+George        Boy           345-67-3901   40        11        91        84        F         
+Heffalump     Harvey        632-79-9439   30        91        20        30        F         
